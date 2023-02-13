@@ -1,6 +1,7 @@
 # PaginaWEBmarkdown
 
-incluya una foto , ejemplo plantilla
+### Jordan Garcia Anderson
+![Cinthia Viteri](https://raw.githubusercontent.com/AnJoGar/AndersonPages.github.io/main/cinthia.png)
 
 -------
 
