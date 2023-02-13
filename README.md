@@ -1,7 +1,8 @@
 # PaginaWEBmarkdown
 
 ### Jordan Garcia Anderson
-![Jordan Anderson](https://raw.githubusercontent.com/AnJoGar/P-ginaWEBmarkdown/blob/main/imagenmia.png)
+![Jordan Anderson](https://raw.githubusercontent.com/AnJoGar/P-ginaWEBmarkdown/main/imagenmia.png)
+
 
 -------
 
