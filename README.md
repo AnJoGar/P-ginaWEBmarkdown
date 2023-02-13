@@ -1,7 +1,7 @@
 # PaginaWEBmarkdown
 
 ### Jordan Garcia Anderson
-![Cinthia Viteri](https://raw.githubusercontent.com/AnJoGar/AndersonPages.github.io/main/cinthia.png)
+![Jordan Anderson](https://raw.githubusercontent.com/AnJoGar/P-ginaWEBmarkdown/blob/main/imagenmia.png)
 
 -------
 
