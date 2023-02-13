@@ -35,7 +35,7 @@ Aquí hay algunos de mis proyectos más destacados:
 
 ## Contacto
 
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en [andjor2019@gmail.com]. También puede encontrarme en instagram y twiter como AndersonJordan7.
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en andjor2019@gmail.com. También puede encontrarme en instagram y twiter como AndersonJordan7.
 
 
 
