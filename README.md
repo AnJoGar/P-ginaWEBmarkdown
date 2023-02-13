@@ -9,7 +9,7 @@
 
 
 
-Hola, mi nombre es [Tu Nombre] y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
+Hola, mi nombre es Anderson Jordan Garcia y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
 
 
@@ -17,7 +17,7 @@ Hola, mi nombre es [Tu Nombre] y este es mi sitio en GitHub Pages. Este sitio es
 
 
 
-Soy Anderson Jordan un estudiante de la carrera de software de 6 semestre de la UG. Me apasiona los deportes especialmente el futbol y boxeo. Estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+Soy un estudiante de la carrera de software de 6 semestre de la UG. Me apasiona los deportes especialmente el futbol y boxeo. Estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
 
 
